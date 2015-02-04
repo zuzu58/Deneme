@@ -22,6 +22,8 @@ namespace Deneme
             MessageBox.Show("git denemesi3");
             MessageBox.Show("git denemesi");
             MessageBox.Show("git denemesi3");
+            MessageBox.Show("git denemesi");
+            MessageBox.Show("git denemesi3");
         }
     }
 }
