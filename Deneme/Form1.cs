@@ -15,9 +15,13 @@ namespace Deneme
         {
             InitializeComponent();        }
 
+
         private void Form1_Load(object sender, EventArgs e)
         {
-            //ASDFGHGHDFGHDFH
+            MessageBox.Show("git denemesi");
+            MessageBox.Show("git denemesi3");
+            MessageBox.Show("git denemesi");
+            MessageBox.Show("git denemesi3");
         }
     }
 }
