@@ -13,7 +13,6 @@ namespace Deneme
     {
         public Form1()
         {
-            InitializeComponent();
-        }
+            InitializeComponent();        }
     }
 }
