@@ -19,6 +19,7 @@ namespace Deneme
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("git denemesi");
+            MessageBox.Show("git denemesi3");
         }
     }
 }
